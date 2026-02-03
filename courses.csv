@@ -1,6 +1,121 @@
 CourseCode,CourseTitle,Credits
-COMP0900,Intro Coding Workshop,0.5
-COMP1010,Programming Fundamentals,3.0
-COMP1020,Data Structures,3.0
-MATH1300,Calculus I,3.0
-ENGR0500,Engineering Lab,0.5
+CS101,Intro to Computer Science,0.5
+CS102,Programming Fundamentals I,0.5
+CS103,Programming Fundamentals II,0.5
+CS104,Computer Systems Basics,0.5
+CS105,Discrete Thinking,0.5
+CS106,Web Fundamentals,0.5
+CS107,Computing Ethics,0.5
+CS108,Problem Solving with Code,0.5
+CS109,Data Representation,0.5
+CS110,Intro to Software Tools,0.5
+CS201,Data Structures,0.5
+CS202,Algorithms I,0.5
+CS203,Object-Oriented Programming,0.5
+CS204,Computer Organization,0.5
+CS205,Databases I,0.5
+CS206,Operating Systems I,0.5
+CS207,Software Engineering I,0.5
+CS208,Computer Networks I,0.5
+CS209,Web Application Development,0.5
+CS210,Human Computer Interaction,0.5
+CS301,Algorithms II,0.5
+CS302,Databases II,0.5
+CS303,Operating Systems II,0.5
+CS304,Software Architecture,0.5
+CS305,Distributed Systems,0.5
+CS306,Machine Learning,0.5
+CS307,Artificial Intelligence,0.5
+CS308,Computer Security,0.5
+CS309,Cloud Computing,0.5
+CS310,Mobile Application Development,0.5
+CS401,Advanced Algorithms,0.5
+CS402,Advanced Databases,0.5
+CS403,Advanced Operating Systems,0.5
+CS404,Advanced Software Engineering,0.5
+CS405,Big Data Systems,0.5
+CS406,Deep Learning,0.5
+CS407,Blockchain Technologies,0.5
+CS408,Data Mining,0.5
+CS409,Game Development,0.5
+CS410,Capstone Project,0.5
+BU101,Intro to Business,0.5
+BU102,Microeconomics,0.5
+BU103,Macroeconomics,0.5
+BU104,Business Mathematics,0.5
+BU105,Business Communication,0.5
+BU106,Principles of Management,0.5
+BU107,Entrepreneurship Basics,0.5
+BU108,Financial Literacy,0.5
+BU109,Introduction to Marketing,0.5
+BU110,Business Law Basics,0.5
+BU201,Financial Accounting,0.5
+BU202,Managerial Accounting,0.5
+BU203,Marketing Principles,0.5
+BU204,Operations Management,0.5
+BU205,Organizational Behaviour,0.5
+BU206,Business Statistics,0.5
+BU207,Supply Chain Management,0.5
+BU208,Corporate Finance,0.5
+BU209,Human Resource Management,0.5
+BU210,International Business,0.5
+BU301,Business Analytics,0.5
+BU302,Strategic Management,0.5
+BU303,Consumer Behaviour,0.5
+BU304,Project Management,0.5
+BU305,Digital Marketing,0.5
+BU306,Management Information Systems,0.5
+BU307,Risk Management,0.5
+BU308,Entrepreneurial Finance,0.5
+BU309,Negotiation and Conflict,0.5
+BU310,Leadership Studies,0.5
+BU401,Advanced Corporate Finance,0.5
+BU402,Advanced Strategy,0.5
+BU403,Advanced Business Analytics,0.5
+BU404,Advanced Marketing Strategy,0.5
+BU405,Advanced Operations Management,0.5
+BU406,Global Business Strategy,0.5
+BU407,Innovation Management,0.5
+BU408,E-Commerce Systems,0.5
+BU409,Sustainability in Business,0.5
+BU410,Capstone Business Project,0.5
+EN101,Engineering Fundamentals,0.5
+EN102,Engineering Mathematics I,0.5
+EN103,Engineering Drawing,0.5
+EN104,Intro to Materials Science,0.5
+EN105,Engineering Computing,0.5
+EN106,Professional Engineering Practice,0.5
+EN107,Engineering Ethics,0.5
+EN108,Intro to Electrical Circuits,0.5
+EN109,Intro to Mechanics,0.5
+EN110,Engineering Design Basics,0.5
+EN201,Statics,0.5
+EN202,Dynamics,0.5
+EN203,Materials Engineering,0.5
+EN204,Thermodynamics I,0.5
+EN205,Fluid Mechanics I,0.5
+EN206,Electrical Circuits II,0.5
+EN207,Engineering Mathematics II,0.5
+EN208,Control Systems I,0.5
+EN209,Manufacturing Processes,0.5
+EN210,Engineering Project Management,0.5
+EN301,Thermodynamics II,0.5
+EN302,Fluid Mechanics II,0.5
+EN303,Control Systems II,0.5
+EN304,Heat Transfer,0.5
+EN305,Mechanical Design,0.5
+EN306,Electrical Machines,0.5
+EN307,Instrumentation Systems,0.5
+EN308,Engineering Economics,0.5
+EN309,Quality Engineering,0.5
+EN310,Sustainable Engineering,0.5
+EN401,Advanced Engineering Design,0.5
+EN402,Advanced Control Systems,0.5
+EN403,Advanced Materials Engineering,0.5
+EN404,Advanced Manufacturing,0.5
+EN405,Energy Systems Engineering,0.5
+EN406,Robotics Engineering,0.5
+EN407,Embedded Systems,0.5
+EN408,Mechatronics,0.5
+EN409,Engineering Simulation,0.5
+EN410,Capstone Engineering Project,0.5
