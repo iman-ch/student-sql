@@ -9,6 +9,7 @@ services:
       - "1433:1433"
     volumes:
       - mssql_data:/var/opt/mssql
+      - ./import:/var/opt/mssql/import
 
 volumes:
   mssql_data:
